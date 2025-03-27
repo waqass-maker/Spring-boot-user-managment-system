@@ -1,0 +1,2 @@
+2025-03-19 15:38:59 [main] INFO  c.s.mrspringboot.Mrspringboot - Starting Mrspringboot using Java 17.0.11 with PID 6512 (C:\Users\user\Desktop\waqas0spring_practise\mrspringboot\target\classes started by user in C:\Users\user\Desktop\waqas0spring_practise\mrspringboot)
+2025-03-19 15:38:59 [main] INFO  c.s.mrspringboot.Mrspringboot - No active profile set, falling back to 1 default profile: "default"

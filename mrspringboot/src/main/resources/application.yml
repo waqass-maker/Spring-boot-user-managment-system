@@ -1,0 +1,35 @@
+
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: journal
+      auto-index-creation: true
+  logging:
+    level:
+      root: info
+      org.springframework: debug
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: khankhattakwaqas@gmail.com
+    password: azks yclm imgh pach
+    properties:
+      mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
+  redis:
+    host: redis-16801.c98.us-east-1-4.ec2.redns.redis-cloud.com
+    port: 16801
+    password: MAewP$9!4efZL5a
+
+waqas:
+  api: 2144ae2b2cf441648f6194835251803
+
+springdoc:
+  swagger-ui:
+    path: /docs
+
+

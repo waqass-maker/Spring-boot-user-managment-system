@@ -1,0 +1,2 @@
+2025-03-26 21:58:40 [http-nio-8080-exec-7] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'userName' for method parameter type String is not present]
+2025-03-26 21:58:44 [http-nio-8080-exec-8] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'userName' for method parameter type String is not present]
